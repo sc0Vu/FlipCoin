@@ -1,0 +1,29 @@
+{
+  "name": "flipcoin",
+  "version": "1.0.0",
+  "description": "Flip coin game using gametoken.",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sc0Vu/FlipCoin.git"
+  },
+  "keywords": [
+    "Ethereum",
+    "Token"
+  ],
+  "author": "sc0Vu <alk03073135@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/sc0Vu/FlipCoin/issues"
+  },
+  "homepage": "https://github.com/sc0Vu/FlipCoin#readme",
+  "dependencies": {
+    "gametoken": "^1.0.0"
+  }
+}
